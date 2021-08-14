@@ -1,2 +1,3 @@
-# polska-lista-nophonespam
-Polska Lista dla programu NoPhoneSpam
+# Polska Lista dla programu NoPhoneSpam
+
+Lista, którą można zaimportować do programu [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam/).
